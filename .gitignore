@@ -1,0 +1,13 @@
+dev_docs/
+.vscode/
+AGENTS.md
+.fossil-settings/
+.old/
+aim
+.fslckout
+*.sh
+.editorconfig
+*.v
+*.txt
+Makefile
+v.mod
