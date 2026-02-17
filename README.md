@@ -96,19 +96,7 @@ High weight on deadlines—just adding "by Friday" boosts most scores by +0.20.
 
 ### Install
 
-Clone and build:
-
-```bash
-git clone https://github.com/yourusername/aim
-cd aim
-make build
-```
-
-The binary is created as `./aim`. Add to your PATH or create a symlink:
-
-```bash
-ln -s $(pwd)/aim /usr/local/bin/aim
-```
+Download binaries from [Releases](https://github.com/rodabt/aim/releases)
 
 ### Basic Usage
 
